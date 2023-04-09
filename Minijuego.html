@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<title>Juego de adivinanza de números</title>
+	<link rel="stylesheet" type="text/css" href="styles.css">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap" rel="stylesheet">
+
+</head>
+<body>
+
+	
+	<h1>Juego de adivinanza de números</h1>
+
+	
+	<p>Ingresa un número entre 1 y 100:</p>
+
+	<input type="number" id="numero" min="1" max="100" required>
+	<br>
+
+	<div class="botones">
+		<button onclick="adivinarNumero()">Adivinar</button>
+		<button onclick="reiniciarJuego()">Reiniciar</button>
+	  </div>
+	  
+
+	<p id="mensaje"></p>
+
+	<script src="script.js"></script>
+</body>
+<div id="popup" class="popup">
+	<div class="popup-content">
+	  <h2>¡Felicidades! Adivinaste el número.</h2>
+	  <button onclick="cerrarPopup()">Aceptar</button>
+	</div>
+  </div>
+
+
+
+  <!--
+<p id="intentos">Número de intentos: <span id="intentos-numero">0</span></p>
+-->
+  
+
+  
+</html>
