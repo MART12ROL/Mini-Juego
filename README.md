@@ -14,4 +14,4 @@ El botón "Adivinar" es de color azul y el botón "Reiniciar" es de color naranj
 El cuadro de mensaje emergente (pop-up) tiene el texto centrado y el botón también.
 La cantidad de intentos realizados se muestra dentro del cuadro de mensaje emergente (pop-up).
 Créditos
-Este juego fue creado porRolando Martinez. Siéntete libre de personalizarlo y utilizarlo para tus propios fines.
+Este juego fue creado por Rolando Martinez. Siéntete libre de personalizarlo y utilizarlo dando un guiño de referencia al autor con el texto MART12ROL.
