@@ -4,7 +4,7 @@ Este es un juego simple de adivinanza de números, donde el jugador intenta adiv
 
 ## Cómo jugar
 
-1. Abre el archivo `index.html` en tu navegador web.
+1. Abre el enlace en tu navegador web.
 2. Ingresa un número entre 1 y 100 en el cuadro de entrada y haz clic en el botón "Adivinar".
 3. Si el número ingresado es mayor que el número correcto, el juego mostrará un mensaje indicando que el número es demasiado alto.
 4. Si el número ingresado es menor que el número correcto, el juego mostrará un mensaje indicando que el número es demasiado bajo.
